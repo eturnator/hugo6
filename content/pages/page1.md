@@ -1,5 +1,7 @@
 ---
 title: "Page1"
+menus: 'main'
+weight: 1
 date: 2024-05-21T18:55:24-04:00
 author: Ece Turnator
 draft: false
