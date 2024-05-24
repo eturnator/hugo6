@@ -1,10 +1,10 @@
 ---
-title: "Page2_NavAdded"
+title: "Page2"
 date: 2024-05-23T18:27:58-04:00
-draft: true
+draft: false
 pager: true
 toc: true
 menus: 'main'
-weight: 1
+weight: 2
 ---
 
